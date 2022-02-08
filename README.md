@@ -154,8 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Dagem Tsehay - [Github](https://github.com/dagemtsehay1) <br>
-Asmamaw Yismaw  - [Github](https://github.com/asmeyb/) 
+Stephen Olayemi - [Github](https://github.com/Olayemi5)
 
 Second part of Airbnb: Joann Vuong
 ## License
