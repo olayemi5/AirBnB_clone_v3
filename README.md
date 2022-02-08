@@ -156,6 +156,3 @@ No known bugs at this time.
 ## Authors
 Stephen Olayemi - [Github](https://github.com/Olayemi5)
 
-Second part of Airbnb: Joann Vuong
-## License
-Public Domain. No copy write protection. 
